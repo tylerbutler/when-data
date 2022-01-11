@@ -25319,3 +25319,6 @@ Baker Island	Baker Island	UM		division	Pacific/Midway
 Howland Island	Howland Island	UM		division	Pacific/Midway
 Jarvis Island	Jarvis Island;Bunker Island;Bunker's Shoal	UM		division	Pacific/Midway
 Johnston Atoll	Johnston Atoll	UM		division	Pacific/Midway
+Tyler Butler	tylerbu;tylerb	US	WA	person	America/Los_Angeles
+Tamine Mokdissi	taminem;tamine	BR		person	America/Sao_Paulo
+Christian Gonzalez	chrisgo;christiango	US	FL	person	America/New_York
